@@ -1,0 +1,35 @@
+/* Contact details, shared layout for both editions. */
+.contact-conversation{display:block;width:clamp(90px,20cqw,176px);height:auto;flex-shrink:0;margin-left:16px}
+.contact-icon{position:absolute;right:23px;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;padding:0;margin:0;flex-shrink:0;background:#e8edff;border:1px solid #aebbd8;border-radius:7px;color:#283652}
+.contact-icon svg{display:block;width:27px;height:27px;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.contact-icon-behance,.contact-icon-instagram{background:#f6d4e1}
+.contact-icon-upwork,.contact-icon-phone{background:#dcebc8}
+.contact-icon-github,.contact-icon-mail{background:#fff0a8}
+.contact-icon-youtube,.contact-icon-tiktok{background:#eceae3}
+.contact-coming-soon .contact-icon{color:#77776d}
+#contact .contact-label{display:flex;align-items:center;gap:12px}
+#contact .contact-platform{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+@container(max-width:420px){.contact-conversation{width:84px;margin-left:8px}#contact .page-heading{align-items:center}.contact-links{grid-template-columns:1fr}}
+.contact-direct{display:grid;gap:12px;margin:26px 0 30px}
+.contact-email,.contact-phone{display:flex;flex-direction:column;align-items:flex-start;gap:9px;padding:21px 23px;border:1px solid #d5ddc5;border-radius:10px;text-decoration:none;background:#eef2e4;min-width:0;transition:background .18s}
+.contact-phone{background:#f4f5ef;gap:7px;padding:17px 23px}
+.contact-label{font:600 11px ui-monospace,monospace;letter-spacing:.09em;color:#6b7658}
+.contact-value{font-size:clamp(16px,3.6cqw,23px);font-weight:600;line-height:1.5;letter-spacing:-.4px;color:#3e4b31;overflow-wrap:anywhere;max-width:100%}
+.contact-phone .contact-value{font-size:19px}
+.contact-hint{font-size:13px;color:#6a7758;line-height:1.5}
+.contact-email:hover,.contact-phone:hover{background:#e3ebd5}
+.contact-group{margin:0 0 28px}
+.contact-group h3{font-size:17px;font-weight:600;letter-spacing:-.3px;margin:0 0 14px}
+.contact-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+.contact-link{display:flex;flex-direction:column;align-items:flex-start;gap:6px;min-width:0;border:1px solid #dce1d2;border-radius:8px;padding:18px;background:#fafbf7;text-decoration:none;transition:background .18s,border-color .18s}
+a.contact-link:hover{background:#eef2e4;border-color:#afbda0}
+.contact-platform{font-size:17px;font-weight:600;line-height:1.4}
+.contact-handle{font-size:14px;color:#717d63;overflow-wrap:anywhere;line-height:1.5}
+.contact-link-action{font-size:12px;color:#667a4d;text-decoration:underline;text-underline-offset:3px;margin-top:10px}
+.contact-coming-soon{background:#f1f2ec;border-style:dashed;justify-content:center;gap:7px}
+.contact-coming-soon .contact-platform{color:#747c69}
+.contact-status{font-size:12px;color:#7b846e}
+@media(max-width:480px){.contact-email,.contact-phone{padding:18px 16px}.contact-value{font-size:16px}.contact-phone .contact-value{font-size:18px}.contact-link{padding:16px 13px}.contact-platform{font-size:16px}.contact-links{gap:11px}.contact-handle{font-size:13px}}
+/* Reserve a right-hand column for the decorative badges. */
+.contact-email,.contact-phone,.contact-link{position:relative;padding-right:94px;min-height:112px}
+@container(max-width:420px){.contact-links{grid-template-columns:1fr}.contact-email,.contact-phone,.contact-link{padding-right:80px}.contact-icon{right:18px;width:42px;height:42px}.contact-icon svg{width:25px;height:25px}}

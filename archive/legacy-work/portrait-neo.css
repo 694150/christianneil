@@ -1,0 +1,20 @@
+/* Portrait and gaming treatment for the neobrutalist edition only. */
+.gamer-label{border:1.5px solid #171717;border-radius:0;background:#c9ed9f;color:#171717;box-shadow:2px 2px 0 #171717;font-weight:700}
+.cafe-portrait{background:#ffe27a;border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717}
+.cafe-portrait figcaption{border-top:2px solid #171717;background:#fffef9;color:#171717;font-weight:700}
+.about-story{gap:29px;align-items:center}
+.about-copy h3{font-size:29px;font-weight:700;line-height:1.1;letter-spacing:-1.2px}
+.about-copy h3 em{font:inherit;color:#315ce8}
+.about-copy>p:not(.eyebrow){color:#44443f}
+.about-signature{font:700 18px 'DM Sans',sans-serif;color:#171717;letter-spacing:-.5px}
+.gaming-card{background:#fffef9;border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717;padding:23px;margin-bottom:34px}
+.gaming-icon{border:2px solid #171717;border-radius:0;background:#ffd84b;color:#171717;box-shadow:3px 3px 0 #171717;transform:rotate(-5deg)}
+.gaming-heading h3{font-weight:700;font-size:26px;letter-spacing:-1px}
+.gaming-heading .eyebrow{font-size:10px}
+.game-tags{gap:12px}
+.game-tags li{border:2px solid #171717;border-radius:0;color:#171717;background:#ffac94;box-shadow:2px 2px 0 #171717;font-weight:600}
+.game-tags li:nth-child(2),.game-tags li:nth-child(5){background:#b4c5ff}
+.game-tags li:nth-child(3),.game-tags li:nth-child(6){background:#c9ed9f}
+.game-tags li:nth-child(4){background:#ffe27a}
+@media(max-width:760px){.about-copy h3{font-size:26px}.intro-roles{max-width:280px}.gamer-label{font-size:10px}}
+@media(max-width:560px){.gaming-card{padding:21px 18px}.about-copy h3{font-size:29px}.game-tags li{font-size:13px}.about-story{gap:27px}}

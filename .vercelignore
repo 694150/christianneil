@@ -1,0 +1,9 @@
+outputs/
+.asset-tools/
+archive/
+work/
+tests/
+docs/
+scripts/optimize-assets.py
+scripts/optimize-font.py
+**/__pycache__/

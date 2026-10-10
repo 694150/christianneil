@@ -1,0 +1,22 @@
+/* Published projects retain each edition's card styling. */
+.project-link{display:block;height:100%;color:inherit;text-decoration:none}
+.project-published{min-width:0}
+.project-artwork{padding:0;overflow:hidden;background:#ebe1cf}
+.project-artwork img{display:block;width:100%;height:100%;object-fit:cover;object-position:center top}
+.project-summary{padding:0 13px 17px}
+.project-summary p{margin:0 0 15px;font-size:12px;line-height:1.65;color:inherit;opacity:.8}
+.project-published .project-details{padding:14px 13px 10px}
+.project-cta{display:inline-flex;align-items:center;gap:9px;font-size:11px;font-weight:700;text-decoration:underline;text-underline-offset:4px}
+.project-cta>span{font-size:17px;line-height:1}
+.project-link:hover .project-cta,.project-link:focus-visible .project-cta{text-decoration-thickness:2px}
+.project-filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 15px}
+.project-filter{border:1px solid var(--line);border-radius:6px;background:#fffef9;color:inherit;padding:9px 12px;min-height:40px;font-size:11px;line-height:1.4;text-align:left}
+.project-filter:hover{background:#ecefdf}
+.project-filter[aria-pressed="true"]{background:#363b33;border-color:#363b33;color:#fffef9}
+.project-results{font-size:11px;color:var(--muted);margin:0 0 19px}
+.project-categories{display:flex;flex-wrap:wrap;gap:6px;list-style:none;padding:0;margin:0 0 12px}
+.project-categories li{border:1px solid var(--line);padding:4px 7px;font-size:9px;line-height:1.5;border-radius:3px}
+.project-empty{padding:30px 24px;border:1px dashed var(--line);background:#fffef9;border-radius:8px}
+.project-empty h3{margin:0 0 10px;font-size:20px}
+.project-empty p{margin:0;font-size:13px;line-height:1.7}
+.project-empty a{text-underline-offset:3px}

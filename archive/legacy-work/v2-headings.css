@@ -1,0 +1,8 @@
+/* Bold display headings, exclusive to Version 2. */
+.intro h1{font-family:'Inktera Demo','DM Sans',sans-serif;font-weight:400;font-synthesis:none;font-size:clamp(1.25rem,5vw,2.25rem);line-height:1.2;letter-spacing:.04em;text-transform:uppercase}
+.intro h1 em{font-family:inherit;font-weight:400;font-style:normal}
+.content{container-type:inline-size}
+.page-heading>div{min-width:0}
+.page h2{font-family:'Inktera Demo','DM Sans',sans-serif;font-weight:400;font-synthesis:none;font-size:clamp(2.5rem,5.5vw,5rem);font-size:clamp(2.5rem,10cqw,5rem);line-height:1.06;letter-spacing:.04em;text-transform:uppercase;overflow-wrap:normal}
+.page h2 em{font-family:inherit;font-weight:400;font-style:normal;display:block;margin-top:-18px}
+@media(max-width:760px){.page h2{font-size:clamp(2.5rem,8vw,3rem);font-size:clamp(2.5rem,9cqw,3rem)}}

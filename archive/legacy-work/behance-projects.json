@@ -1,0 +1,290 @@
+[
+  {
+    "id": "spaltitude",
+    "title": "SPAltitude — Spa Service Menu Design",
+    "path": "256520235/SPAltitude-Spa-Service-Menu-Design",
+    "image": "1400_webp/7ae8d1256520235.6abe6a470df8a.jpg",
+    "width": 1400,
+    "height": 3170,
+    "services": [
+      "graphic-design",
+      "print-artwork"
+    ],
+    "type": "Spa service menu",
+    "description": "A service menu for SPAltitude by J&E Massage Center. Earthy colors, botanical details, and elegant typography organize massage services, wellness packages, and membership benefits into a warm, inviting layout.",
+    "tool": "Adobe Illustrator",
+    "asset": "spaltitude-menu-full.webp",
+    "preview_title": "SPAltitude"
+  },
+  {
+    "id": "mobile-legends",
+    "title": "Mobile Legends Tournament — Event Poster Redesign",
+    "path": "256367053/Mobile-Legends-Tournament-Event-Poster-Redesign",
+    "image": "1400_webp/20ed77256367053.6aba971ac16c8.png",
+    "width": 1400,
+    "height": 5217,
+    "services": [
+      "graphic-design",
+      "social-media"
+    ],
+    "type": "Event poster redesign",
+    "description": "A fresh take on a Mobile Legends tournament poster, combining bold typography, focused character imagery, and yellow accents. The presentation compares the original poster with the redesign and explains its approach to clearer event promotion.",
+    "tool": "Adobe Illustrator",
+    "cover": "https://mir-s3-cdn-cf.behance.net/projects/max_808/f4fdde256367053.Y3JvcCw4NDAsNjU3LDEyNiw3ODY.jpg",
+    "asset": "project-mobile-legends.webp",
+    "cover_asset": "project-mobile-legends-cover.jpg",
+    "preview_title": "Mobile Legends Tournament"
+  },
+  {
+    "id": "local-pride",
+    "title": "LOCAL PRIDE, CLEAN FINISH",
+    "path": "256047405/LOCAL-PRIDE-CLEAN-FINISH",
+    "image": "max_1200_webp/343a6e256047405.6ab182f55f432.jpg",
+    "width": 1200,
+    "height": 3131,
+    "services": [
+      "graphic-design",
+      "print-artwork",
+      "illustrator"
+    ],
+    "type": "Workwear graphics",
+    "description": "Workwear graphics combining script lettering, a pressure-washer illustration, and a coordinated green palette. The front introduces the business, while the back highlights its service area and contact information.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-local-pride.webp"
+  },
+  {
+    "id": "across-the-field",
+    "title": "ACROSS THE FIELD",
+    "path": "256047293/ACROSS-THE-FIELD",
+    "image": "max_1200_webp/adc496256047293.6ab1823523edb.jpg",
+    "width": 1200,
+    "height": 3131,
+    "services": [
+      "graphic-design",
+      "print-artwork",
+      "illustrator"
+    ],
+    "type": "Apparel design",
+    "description": "An apparel design pairing collegiate typography with soccer-inspired graphics and American flag details. The clean front highlights chapter identity, while the illustrated back brings energy and movement.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-across-the-field.webp"
+  },
+  {
+    "id": "lacrosse",
+    "title": "Design Logo for a Lacrosse Team",
+    "path": "243921337/Design-Logo-for-a-Lacrosse-Team",
+    "image": "1400_webp/e6cd18243921337.698bbfba83690.jpg",
+    "width": 1400,
+    "height": 2910,
+    "services": [
+      "graphic-design"
+    ],
+    "type": "Sports logo design",
+    "description": "A lacrosse team logo design that brings athletic energy and community identity together, presented for branding, merchandise, and promotional use.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-lacrosse.webp",
+    "preview_title": "Lacrosse Team"
+  },
+  {
+    "id": "tas-scaff-logo",
+    "title": "Tas Scaff Hire Logo Design",
+    "path": "135254371/Tas-Scaff-Hire-Logo-Design",
+    "image": "1400/dcb09f135254371.61e512d5c5eda.gif",
+    "width": 1400,
+    "height": 1050,
+    "services": [
+      "graphic-design"
+    ],
+    "type": "Logo design",
+    "description": "Logo design for Tas Scaff Hire. Explore the original animated presentation below.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-tas-scaff-logo.gif",
+    "preview_title": "Tas Scaff Hire"
+  },
+  {
+    "id": "simons-glass-logo",
+    "title": "Simon's Glass Logo Design",
+    "path": "135254333/Simons-Glass-Logo-Design",
+    "image": "1400/2f9d11135254333.61e512ae31353.gif",
+    "width": 1400,
+    "height": 1050,
+    "services": [
+      "graphic-design"
+    ],
+    "type": "Logo design",
+    "description": "Logo design for Simon’s Glass, shown in its original animated project presentation.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-simons-glass-logo.gif",
+    "preview_title": "Simon's Glass"
+  },
+  {
+    "id": "farmers-bumpers",
+    "title": "Farmers Bumpers Plus",
+    "path": "135254281/Farmers-Bumpers-Plus",
+    "image": "1400/a29e3e135254281.61e51259bf11a.gif",
+    "width": 1400,
+    "height": 1050,
+    "services": [
+      "graphic-design",
+      "illustrator"
+    ],
+    "type": "Logo & illustration",
+    "description": "A logo project for Farmers Bumpers Plus, combining vector design and illustration. The original presentation is shown below.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-farmers-bumpers.gif"
+  },
+  {
+    "id": "croft-auto",
+    "title": "Croft Auto Logo Design",
+    "path": "135254253/Croft-Auto-Logo-Design",
+    "image": "1400/9d82fa135254253.61e5122f0772d.gif",
+    "width": 1400,
+    "height": 1050,
+    "services": [
+      "graphic-design"
+    ],
+    "type": "Logo design",
+    "description": "Logo design for Croft Auto. This project includes the original animated logo presentation.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-croft-auto.gif",
+    "preview_title": "Croft Auto"
+  },
+  {
+    "id": "bob-gears",
+    "title": "Bob Gear's Logo Design",
+    "path": "135254191/Bob-Gears-Logo-Design",
+    "image": "1400/fe7f59135254191.61e511db0a79c.gif",
+    "width": 1400,
+    "height": 1050,
+    "services": [
+      "graphic-design",
+      "illustrator"
+    ],
+    "type": "Logo & illustration",
+    "description": "A vector logo and illustration project for Bob Gear’s, presented in its original animated format.",
+    "tool": "Adobe Illustrator",
+    "asset": "project-bob-gears.gif",
+    "preview_title": "Bob Gear’s"
+  },
+  {
+    "id": "ayg-projects",
+    "title": "Web Design: AYG Projects",
+    "path": "96198433/Web-Design-AYG-Projects",
+    "image": "1400_webp/b9795496198433.5ea8ec091321e.png",
+    "width": 1400,
+    "height": 4074,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Website design",
+    "description": "A WordPress landing-page design for AYG Projects. The complete page layout is presented below.",
+    "tool": "WordPress",
+    "asset": "project-ayg-projects.webp"
+  },
+  {
+    "id": "cars-to-cab",
+    "title": "Web Design: Cars to Cab",
+    "path": "96199775/Web-Design-Cars-to-Cab",
+    "image": "1400_webp/924b1096199775.5ea8f6b3cea66.png",
+    "width": 1400,
+    "height": 3814,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Landing-page design",
+    "description": "A landing-page design for Cars to Cab, originally shared as an ongoing project. Explore the full design presentation below.",
+    "asset": "project-cars-to-cab.webp"
+  },
+  {
+    "id": "jni-painting",
+    "title": "Web Design: JNI Painting & Coating Solutions",
+    "path": "96200197/Web-Design-JNI-Painting-Coating-Solutions",
+    "image": "1400_webp/ec3cd796200197.5ea8fa43aae48.png",
+    "width": 1400,
+    "height": 3710,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Landing-page mockup",
+    "description": "A landing-page mockup for JNI Painting & Coating Solutions, published as a web design and WordPress project.",
+    "tool": "WordPress",
+    "asset": "project-jni-painting.webp",
+    "preview_title": "JNI Painting & Coating"
+  },
+  {
+    "id": "impulse-electrical",
+    "title": "Web Design: Impulse Electrical Contractors",
+    "path": "96200757/Web-Design-Impulse-Electrical-Contractors",
+    "image": "1400_webp/5ecd7996200757.5ea8fe357393e.png",
+    "width": 1400,
+    "height": 3016,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Website design",
+    "description": "A WordPress landing-page design for Impulse Electrical Contractors. View the complete website layout in the original project presentation.",
+    "tool": "WordPress",
+    "asset": "project-impulse-electrical.webp",
+    "preview_title": "Impulse Electrical"
+  },
+  {
+    "id": "tas-scaff-web",
+    "title": "Web Design: Tas Scaff Hire",
+    "path": "96200935/Web-Design-Tas-Scaff-Hire",
+    "image": "1400_webp/4988c196200935.5ea8ff5c676c6.png",
+    "width": 1400,
+    "height": 2731,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Website design",
+    "description": "A WordPress landing-page design for Tas Scaff Hire, presented as a complete page layout.",
+    "tool": "WordPress",
+    "asset": "project-tas-scaff-web.webp"
+  },
+  {
+    "id": "hi-way-truck",
+    "title": "Web Design: Hi-Way 1 Gympie Truck Centre",
+    "path": "96202799/Web-Design-Hi-Way-1-Gympie-Truck-Centre",
+    "image": "1400_webp/95724096202799.5ea90e32c9aca.png",
+    "width": 1400,
+    "height": 3208,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Landing-page mockup",
+    "description": "A landing-page mockup for Hi-Way 1 Gympie Truck Centre. The full website design is presented below.",
+    "asset": "project-hi-way-truck.webp",
+    "preview_title": "Hi-Way 1 Truck Centre"
+  },
+  {
+    "id": "simons-glass-web",
+    "title": "Web Design: Simon's Glass",
+    "path": "96201039/Web-Design-Simons-Glass",
+    "image": "1400_webp/c9fb0b96201039.5ea8fffd1decd.png",
+    "width": 1400,
+    "height": 3876,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Website design",
+    "description": "A WordPress landing-page design for Simon’s Glass, shown in its complete project presentation.",
+    "tool": "WordPress",
+    "asset": "project-simons-glass-web.webp"
+  },
+  {
+    "id": "civil-movement",
+    "title": "Web Design: Civil Movement",
+    "path": "96200827/Web-Design-Civil-Movement",
+    "image": "1400_webp/512a7796200827.5ea8feafa050f.png",
+    "width": 1400,
+    "height": 3862,
+    "services": [
+      "wordpress"
+    ],
+    "type": "Website design",
+    "description": "A WordPress landing-page design for Civil Movement. Explore the full page design below.",
+    "tool": "WordPress",
+    "asset": "project-civil-movement.webp"
+  }
+]

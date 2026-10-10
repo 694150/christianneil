@@ -1,0 +1,79 @@
+/* Main edition only. Preserve the oversized desktop headings and retro palette. */
+.home-primary, .project-modal-close { touch-action: manipulation; }
+.project-filter { min-height: 44px; }
+.home-all-projects, .home-see-all { min-height: 44px; }
+.contact-value { overflow-wrap: anywhere; }
+.project-modal-artwork img { background: #eee9dc; }
+.skip-link { position: fixed; top: 12px; left: 12px; z-index: 30; transform: translateY(-200%); padding: 12px 18px; background: #ffd84b; border: 2px solid #171717; color: #171717; }
+.skip-link:focus { transform: none; }
+@container (max-width: 600px) {
+  .page h2 em { margin-top: 0; }
+  .page h2 { line-height: 1.12; }
+}
+@media (max-width: 760px) {
+  .desktop { padding-inline: 10px; }
+  .desktop-bar { gap: 10px; min-height: 64px; height: auto; padding-block: 12px; }
+  .desktop-brand { gap: 8px; min-width: 0; }
+  .desktop-brand > span:last-child { max-width: 12ch; }
+  .edition { font-size: 9px; letter-spacing: .02em; padding: 8px; }
+  .edition small { font-size: 8px; }
+  .sidebar { padding: 24px 18px 20px; }
+  .profile { flex-direction: row; gap: 18px; align-items: center; text-align: left; }
+  .profile-copy { min-width: 0; }
+  .profile-copy .bio { display: none; }
+  .sidebar .sidebar-bottom { display: none; }
+  .navigation { margin-top: 22px; }
+  .avatar.profile-avatar.portrait-avatar { width: 96px; height: 96px; margin: 0; }
+  .profile h1 { font-size: 23px; line-height: 1.16; }
+  .bio { margin-block: 18px; font-size: 13px; }
+  .navigation { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; }
+  .navigation .nav-item { min-height: 48px; flex-direction: row; align-items: center; text-align: left; padding: 10px; gap: 9px; font-size: 12px; }
+  .navigation .nav-item:last-child { grid-column: 1 / -1; }
+  .navigation .nav-number { display: inline; margin-left: auto; font-size: 9px; }
+  .content { padding: 26px 18px 0; }
+  .page { min-height: 0; }
+  .page h2 { line-height: 1.12; font-size: clamp(30px, 10.5cqw, 42px); overflow-wrap: anywhere; }
+  .page h2 em { margin-top: 0; }
+  .page-heading.illustrated-heading { position: relative; display: block; }
+  .illustrated-heading .eyebrow { padding-right: 62px; min-height: 28px; }
+  .illustrated-heading > div:first-child { min-width: 0; }
+  .section-graphic { position: absolute; right: 0; top: 0; width: 48px; margin: 0; }
+  .page-heading-aside { margin: 0; }
+  .page-heading-aside .pill { display: none; }
+  .page-description { font-size: 14px; line-height: 1.75; }
+  .page-meta { gap: 8px; flex-wrap: wrap; font-size: 9px; }
+  .about-story { grid-template-columns: 1fr; }
+  .about-copy > p:not(.eyebrow) { font-size: 15px; }
+  .service-grid, .contact-link-grid { grid-template-columns: 1fr; }
+  .service-card { min-height: 0; padding: 22px; }
+  .service-card h3 { overflow-wrap: anywhere; }
+  .resume-entry { padding-inline: 18px; }
+  .home-cta { padding: 22px 18px; }
+  .home-cta .home-primary { width: 100%; white-space: normal; text-align: center; }
+  .project-filter { padding: 10px 12px; font-size: 12px; }
+  .project-modal { width: calc(100vw - 20px); max-height: calc(100dvh - 24px); }
+  .project-modal-layout { display: flex; flex-direction: column; }
+  .project-modal-details { padding: 22px 18px; }
+  .project-modal-details h2 { font-size: 27px; }
+  .project-modal-links a { width: 100%; }
+  .project-modal-artwork { width: 100%; }
+  .intro { padding: 20px 18px max(20px, env(safe-area-inset-bottom)); overflow-y: auto; }
+  .intro h1 { font-size: clamp(20px, 6vw, 29px); }
+  .intro-foot { position: static; margin-top: 20px; }
+}
+@media (max-width: 360px) {
+  .profile { gap: 12px; }
+  .avatar.profile-avatar.portrait-avatar { width: 78px; height: 78px; }
+  .profile h1 { font-size: 21px; }
+  .navigation .nav-item { font-size: 11px; gap: 6px; }
+  .navigation .nav-number { display: none; }
+  .contact-email, .contact-phone, .contact-link { padding-right: 64px; }
+  .contact-icon { right: 14px; width: 34px; height: 34px; }
+}
+@media (max-height: 560px) and (orientation: landscape) {
+  .intro .intro-avatar { width: 90px; height: 90px; margin-bottom: 12px; }
+  .intro-eyebrow { margin: 8px 0; }
+  .intro p { margin: 12px 0; }
+  .skip-intro { margin-top: 12px; min-height: 44px; }
+  .intro-foot { display: none; }
+}

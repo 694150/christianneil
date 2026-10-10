@@ -1,0 +1,17 @@
+/* Contact details in the Volume 2 palette. */
+.contact-icon{border:2px solid #171717;border-radius:0;color:#171717;box-shadow:2px 2px 0 #171717;transform:translateY(-50%) rotate(-7deg)}
+.contact-coming-soon .contact-icon{border-color:#8e8e82;box-shadow:none}
+.contact-email,.contact-phone{border:2px solid #171717;border-radius:0;box-shadow:4px 4px 0 #171717;background:#ffe27a;color:#171717}
+.contact-phone{background:#fffef9}
+.contact-label{color:#171717;font-weight:700}
+.contact-value,.contact-hint{color:#171717}
+.contact-email:hover,.contact-phone:hover{background:#c9ed9f}
+.contact-group h3{font-size:20px;font-weight:700;letter-spacing:-.6px}
+.contact-link{border:2px solid #171717;border-radius:0;background:#fffef9;box-shadow:3px 3px 0 #171717;color:#171717}
+.contact-platform{font-weight:700}
+.contact-handle{color:#51514c}
+.contact-link-action{color:#315ce8;font-weight:600}
+a.contact-link:hover{background:#e8edff;border-color:#171717}
+.contact-coming-soon{border:1px dashed #7b7b72;box-shadow:none;background:#f2f0e7}
+.contact-coming-soon .contact-platform,.contact-status{color:#66665e}
+.contact-group{margin-bottom:31px}

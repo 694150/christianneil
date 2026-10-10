@@ -1,0 +1,9 @@
+/* Keyboard focus uses an underline instead of a colored box. */
+a:focus,button:focus{outline:none}
+a:focus-visible,button:focus-visible{outline:none;text-decoration-line:underline;text-decoration-style:solid;text-decoration-color:currentColor;text-decoration-thickness:3px;text-underline-offset:5px}
+
+/* All sections remain readable and anchor-linked without the JS page switcher. */
+html:not(.workspace-ready) .page + .page{margin-top:48px;padding-top:32px;border-top:1px solid var(--line)}
+.page h2[id],#skills-title{scroll-margin-top:24px}
+/* Headings receive reading focus; interactive controls retain their visible underline. */
+.page h2[tabindex="-1"]:focus,#skills-title:focus{outline:none}

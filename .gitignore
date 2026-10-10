@@ -1,0 +1,8 @@
+node_modules/
+.asset-tools/
+.vercel/
+.env*
+!.env.example
+outputs/
+work/qa/
+__pycache__/

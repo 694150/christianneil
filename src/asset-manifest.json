@@ -1,0 +1,342 @@
+{
+  "spaltitude-menu-full.webp": {
+    "originalBytes": 482090,
+    "variants": [
+      {
+        "file": "spaltitude-menu-full-360.webp",
+        "width": 360,
+        "height": 815,
+        "bytes": 30098
+      },
+      {
+        "file": "spaltitude-menu-full-640.webp",
+        "width": 640,
+        "height": 1449,
+        "bytes": 76780
+      }
+    ]
+  },
+  "project-mobile-legends.webp": {
+    "originalBytes": 584210,
+    "variants": [
+      {
+        "file": "project-mobile-legends-360.webp",
+        "width": 360,
+        "height": 1342,
+        "bytes": 56280
+      },
+      {
+        "file": "project-mobile-legends-640.webp",
+        "width": 640,
+        "height": 2385,
+        "bytes": 127040
+      }
+    ]
+  },
+  "project-local-pride.webp": {
+    "originalBytes": 177892,
+    "variants": [
+      {
+        "file": "project-local-pride-360.webp",
+        "width": 360,
+        "height": 939,
+        "bytes": 22434
+      },
+      {
+        "file": "project-local-pride-640.webp",
+        "width": 640,
+        "height": 1670,
+        "bytes": 50204
+      }
+    ]
+  },
+  "project-across-the-field.webp": {
+    "originalBytes": 269790,
+    "variants": [
+      {
+        "file": "project-across-the-field-360.webp",
+        "width": 360,
+        "height": 939,
+        "bytes": 32848
+      },
+      {
+        "file": "project-across-the-field-640.webp",
+        "width": 640,
+        "height": 1670,
+        "bytes": 73328
+      }
+    ]
+  },
+  "project-lacrosse.webp": {
+    "originalBytes": 154394,
+    "variants": [
+      {
+        "file": "project-lacrosse-360.webp",
+        "width": 360,
+        "height": 748,
+        "bytes": 15238
+      },
+      {
+        "file": "project-lacrosse-640.webp",
+        "width": 640,
+        "height": 1330,
+        "bytes": 34120
+      }
+    ]
+  },
+  "project-tas-scaff-logo.gif": {
+    "originalBytes": 23396,
+    "variants": [
+      {
+        "file": "project-tas-scaff-logo-360.webp",
+        "width": 360,
+        "height": 270,
+        "bytes": 2186
+      },
+      {
+        "file": "project-tas-scaff-logo-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 3344
+      }
+    ]
+  },
+  "project-simons-glass-logo.gif": {
+    "originalBytes": 45908,
+    "variants": [
+      {
+        "file": "project-simons-glass-logo-360.webp",
+        "width": 360,
+        "height": 270,
+        "bytes": 1660
+      },
+      {
+        "file": "project-simons-glass-logo-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 2662
+      }
+    ]
+  },
+  "project-farmers-bumpers.gif": {
+    "originalBytes": 67032,
+    "variants": [
+      {
+        "file": "project-farmers-bumpers-360.webp",
+        "width": 360,
+        "height": 270,
+        "bytes": 4764
+      },
+      {
+        "file": "project-farmers-bumpers-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 9750
+      }
+    ]
+  },
+  "project-croft-auto.gif": {
+    "originalBytes": 28907,
+    "variants": [
+      {
+        "file": "project-croft-auto-360.webp",
+        "width": 360,
+        "height": 270,
+        "bytes": 1946
+      },
+      {
+        "file": "project-croft-auto-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 4082
+      }
+    ]
+  },
+  "project-bob-gears.gif": {
+    "originalBytes": 63007,
+    "variants": [
+      {
+        "file": "project-bob-gears-360.webp",
+        "width": 360,
+        "height": 270,
+        "bytes": 5366
+      },
+      {
+        "file": "project-bob-gears-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 9712
+      }
+    ]
+  },
+  "project-ayg-projects.webp": {
+    "originalBytes": 434806,
+    "variants": [
+      {
+        "file": "project-ayg-projects-360.webp",
+        "width": 360,
+        "height": 1048,
+        "bytes": 34910
+      },
+      {
+        "file": "project-ayg-projects-640.webp",
+        "width": 640,
+        "height": 1862,
+        "bytes": 84222
+      }
+    ]
+  },
+  "project-cars-to-cab.webp": {
+    "originalBytes": 390410,
+    "variants": [
+      {
+        "file": "project-cars-to-cab-360.webp",
+        "width": 360,
+        "height": 981,
+        "bytes": 31824
+      },
+      {
+        "file": "project-cars-to-cab-640.webp",
+        "width": 640,
+        "height": 1744,
+        "bytes": 75068
+      }
+    ]
+  },
+  "project-jni-painting.webp": {
+    "originalBytes": 439506,
+    "variants": [
+      {
+        "file": "project-jni-painting-360.webp",
+        "width": 360,
+        "height": 954,
+        "bytes": 32116
+      },
+      {
+        "file": "project-jni-painting-640.webp",
+        "width": 640,
+        "height": 1696,
+        "bytes": 76150
+      }
+    ]
+  },
+  "project-impulse-electrical.webp": {
+    "originalBytes": 521458,
+    "variants": [
+      {
+        "file": "project-impulse-electrical-360.webp",
+        "width": 360,
+        "height": 776,
+        "bytes": 25990
+      },
+      {
+        "file": "project-impulse-electrical-640.webp",
+        "width": 640,
+        "height": 1379,
+        "bytes": 64054
+      }
+    ]
+  },
+  "project-tas-scaff-web.webp": {
+    "originalBytes": 449570,
+    "variants": [
+      {
+        "file": "project-tas-scaff-web-360.webp",
+        "width": 360,
+        "height": 702,
+        "bytes": 33106
+      },
+      {
+        "file": "project-tas-scaff-web-640.webp",
+        "width": 640,
+        "height": 1248,
+        "bytes": 84818
+      }
+    ]
+  },
+  "project-hi-way-truck.webp": {
+    "originalBytes": 488568,
+    "variants": [
+      {
+        "file": "project-hi-way-truck-360.webp",
+        "width": 360,
+        "height": 825,
+        "bytes": 31058
+      },
+      {
+        "file": "project-hi-way-truck-640.webp",
+        "width": 640,
+        "height": 1467,
+        "bytes": 79468
+      }
+    ]
+  },
+  "project-simons-glass-web.webp": {
+    "originalBytes": 517352,
+    "variants": [
+      {
+        "file": "project-simons-glass-web-360.webp",
+        "width": 360,
+        "height": 997,
+        "bytes": 36450
+      },
+      {
+        "file": "project-simons-glass-web-640.webp",
+        "width": 640,
+        "height": 1772,
+        "bytes": 91500
+      }
+    ]
+  },
+  "project-civil-movement.webp": {
+    "originalBytes": 652368,
+    "variants": [
+      {
+        "file": "project-civil-movement-360.webp",
+        "width": 360,
+        "height": 993,
+        "bytes": 40746
+      },
+      {
+        "file": "project-civil-movement-640.webp",
+        "width": 640,
+        "height": 1765,
+        "bytes": 108502
+      }
+    ]
+  },
+  "spaltitude-menu-cover.jpg": {
+    "originalBytes": 208688,
+    "variants": [
+      {
+        "file": "spaltitude-menu-cover-400.webp",
+        "width": 400,
+        "height": 313,
+        "bytes": 16178
+      },
+      {
+        "file": "spaltitude-menu-cover-808.webp",
+        "width": 808,
+        "height": 632,
+        "bytes": 45930
+      }
+    ]
+  },
+  "project-mobile-legends-cover.jpg": {
+    "originalBytes": 214153,
+    "variants": [
+      {
+        "file": "project-mobile-legends-cover-400.webp",
+        "width": 400,
+        "height": 313,
+        "bytes": 25422
+      },
+      {
+        "file": "project-mobile-legends-cover-808.webp",
+        "width": 808,
+        "height": 632,
+        "bytes": 73574
+      }
+    ]
+  }
+}

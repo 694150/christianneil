@@ -1,0 +1,5 @@
+/* Quiet encouragement above the same CN mark used in the header. */
+.sidebar .sidebar-bottom{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:24px;text-align:center;margin-top:auto;padding:38px 0 21px;color:inherit}
+.sidebar-quote{display:flex;align-items:center;justify-content:center;min-height:6.8em;width:100%;max-width:230px;margin:0;font-size:14px;font-weight:400;font-style:italic;line-height:1.7;letter-spacing:0;color:inherit;text-wrap:pretty}
+.sidebar-bottom .sidebar-brand-mark{transform:rotate(-5deg) scale(1.35);transform-origin:center;margin:8px 0 12px}
+@media(max-width:760px){.sidebar .sidebar-bottom{padding-top:25px;gap:16px}.sidebar-quote{max-width:380px;min-height:3.4em}.sidebar-bottom .sidebar-brand-mark{margin-top:5px}}

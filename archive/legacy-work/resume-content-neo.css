@@ -1,0 +1,16 @@
+/* Volume 2 resume entries and download. */
+.resume-entry{border-bottom:1px solid #171717}
+.resume-entry::before{border-color:#171717;background:#ffd84b}
+.resume-date{color:#315ce8;font-weight:700}
+.resume-entry h4{font-weight:700}
+.resume-company span,.resume-entry ul{color:#51514c}
+.skill-tags li{background:#fffef9;border:1.5px solid #171717;border-radius:0;color:#171717}
+.resume-download{border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717;background:#fffef9}
+.resume-download h3{font-weight:700}
+.resume-download p:not(.eyebrow),.download-format{color:#51514c}
+.resume-download-button{border:2px solid #171717;border-radius:0;background:#ffd84b;color:#171717;box-shadow:3px 3px 0 #171717}
+.resume-download-button:hover{background:#ffe27a}
+.resume-download-button:active{transform:translate(3px,3px);box-shadow:none}
+.service-number{color:#171717;font-weight:700}
+.detailed-services .service-card p:not(.eyebrow),.service-deliverables{color:#34342e}
+.services-contact{color:#51514c}.services-contact a{color:#315ce8}

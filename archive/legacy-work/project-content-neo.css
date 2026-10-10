@@ -1,0 +1,5 @@
+.project-filter{border:2px solid #171717;border-radius:0;box-shadow:2px 2px 0 #171717;font-weight:700}
+.project-filter:hover{background:#fff0a8}
+.project-filter[aria-pressed="true"]{background:#ffd84b;border-color:#171717;color:#171717;box-shadow:none}
+.project-categories li{border:1px solid #171717;border-radius:0;background:#fff0a8;color:#171717}
+.project-empty{border:2px solid #171717;border-radius:0;box-shadow:4px 4px 0 #171717}

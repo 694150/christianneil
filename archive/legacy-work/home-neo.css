@@ -1,0 +1,15 @@
+.home-primary{background:#ffd84b;color:#171717;border:2px solid #171717;border-radius:0;box-shadow:3px 3px 0 #171717;font-weight:700}
+.home-primary:hover{background:#c9ed9f}
+.home-primary:active{box-shadow:none;transform:translate(2px,2px)}
+.home-secondary{color:#315ce8}
+.home-placeholder{background:#e8edff;border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717}
+.home-placeholder-label,.home-placeholder p{color:#414b6b}
+.home-placeholder h3{font-weight:700;font-size:30px;color:#171717}
+.home-placeholder-symbol{color:#315ce8}
+.home-process{color:#171717;border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717}
+.home-skill{background:#fffef9;border:2px solid #171717;border-radius:0;box-shadow:3px 3px 0 #171717}
+.home-more-skills li{background:#fff0a8;border:1px solid #171717;border-radius:0}
+.home-cta{background:#ffe27a;border:2px solid #171717;border-radius:0;box-shadow:5px 5px 0 #171717;color:#171717}
+.home-cta .home-primary{background:#171717;color:#fff;box-shadow:3px 3px 0 #fffef9}
+.home-cta .home-primary:hover{background:#315ce8}
+.home-cta .home-primary:active{box-shadow:none}

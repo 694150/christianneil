@@ -1,0 +1,13 @@
+{
+  "name": "neils-workspace",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/preview.cjs",
+    "preview": "node scripts/preview.cjs",
+    "test": "node tests/navigation.cjs && node tests/project-modal.cjs && node tests/build.mjs"
+  }
+}
