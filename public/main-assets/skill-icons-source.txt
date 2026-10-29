@@ -20,3 +20,7 @@ Downloaded 2026-10-09. See SIMPLE-ICONS-LICENSE.md.
 Adobe InDesign icon: Simple Icons v11.15.0
 Source: https://github.com/simple-icons/simple-icons/blob/11.15.0/icons/adobeindesign.svg
 Product names and logos belong to their respective owners and identify the tools used.
+
+Figma: https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg (Devicon, MIT; see DEVICON-LICENSE.txt)
+
+Canva: https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg (Devicon, MIT; see DEVICON-LICENSE.txt)

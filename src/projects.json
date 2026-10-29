@@ -11,12 +11,14 @@
     "type": "Spa service menu",
     "description": "A spa service menu for SPAltitude by J&E Massage Center. An earthy green-and-cream palette, botanical details, and contrasting type styles separate the treatment names from prices and descriptions.",
     "asset": "spaltitude-menu-full.webp",
-    "preview_title": "SPAltitude",
     "url": "https://www.behance.net/gallery/256520235/SPAltitude-Spa-Service-Menu-Design",
     "scope": "Spa service menu",
     "details": "The presentation brings massage services, package options, and membership information into one coordinated menu layout.",
     "tool": "Adobe Illustrator",
-    "alt": "SPAltitude — Spa Service Menu Design — Spa service menu presentation"
+    "alt": "SPAltitude — Spa Service Menu Design — Spa service menu presentation",
+    "cover_asset": "spaltitude-menu-cover.jpg",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "mobile-legends",
@@ -30,11 +32,12 @@
     "description": "A redesign study of a Mobile Legends tournament poster, shown alongside the original. A dark background, yellow accents, and a stronger type hierarchy give the event title, prize pool, and schedule distinct places in the layout.",
     "asset": "project-mobile-legends.webp",
     "cover_asset": "project-mobile-legends-cover.jpg",
-    "preview_title": "Mobile Legends Tournament",
     "url": "https://www.behance.net/gallery/256367053/Mobile-Legends-Tournament-Event-Poster-Redesign",
     "scope": "Event poster redesign",
     "details": "The side-by-side presentation highlights changes to composition, type scale, and placement of the key event details.",
-    "alt": "Mobile Legends Tournament — Event Poster Redesign — Event poster redesign presentation"
+    "alt": "Mobile Legends Tournament — Event Poster Redesign — Event poster redesign presentation",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "local-pride",
@@ -49,11 +52,13 @@
     "type": "Workwear graphics",
     "description": "Front-and-back workwear graphics for Vinny’s Pressure Washing. The small front mark pairs script lettering with a pressure-washer illustration, while the back gives the service area and contact details more space.",
     "asset": "project-local-pride.webp",
-    "preview_title": "LOCAL PRIDE, CLEAN FINISH",
     "url": "https://www.behance.net/gallery/256047405/LOCAL-PRIDE-CLEAN-FINISH",
     "scope": "Workwear graphics",
     "details": "The project includes garment mockups and separate artwork views, showing how the same green palette and lettering carry across both placements.",
-    "alt": "LOCAL PRIDE, CLEAN FINISH — Workwear graphics presentation"
+    "alt": "LOCAL PRIDE, CLEAN FINISH — Workwear graphics presentation",
+    "cover_asset": "project-local-pride.webp",
+    "cover_position": 18,
+    "cover_scale": 1.12
   },
   {
     "id": "across-the-field",
@@ -68,11 +73,13 @@
     "type": "Apparel design",
     "description": "A spring-rush apparel design for AEPi’s Rho Deuteron chapter. The front uses a compact chapter lockup; the back combines flag-filled lettering, a soccer ball, and a map illustration.",
     "asset": "project-across-the-field.webp",
-    "preview_title": "ACROSS THE FIELD",
     "url": "https://www.behance.net/gallery/256047293/ACROSS-THE-FIELD",
     "scope": "Apparel design",
     "details": "The presentation shows the front and back on garment mockups, followed by enlarged artwork and a color palette.",
-    "alt": "ACROSS THE FIELD — Apparel design presentation"
+    "alt": "ACROSS THE FIELD — Apparel design presentation",
+    "cover_asset": "project-across-the-field.webp",
+    "cover_position": 18,
+    "cover_scale": 1.12
   },
   {
     "id": "lacrosse",
@@ -85,11 +92,13 @@
     "type": "Sports logo design",
     "description": "A lacrosse club identity built around bold athletic lettering, crossed sticks, and a red-and-blue palette. The presentation explores the main mark alongside simpler variations.",
     "asset": "project-lacrosse.webp",
-    "preview_title": "Lacrosse Team",
     "url": "https://www.behance.net/gallery/243921337/Design-Logo-for-a-Lacrosse-Team",
     "scope": "Sports logo design",
     "details": "Apparel mockups and alternate color treatments show how the identity can appear at different sizes and on different backgrounds.",
-    "alt": "Design Logo for a Lacrosse Team — Sports logo design presentation"
+    "alt": "Design Logo for a Lacrosse Team — Sports logo design presentation",
+    "cover_asset": "project-lacrosse.webp",
+    "cover_position": 65,
+    "cover_scale": 1.2
   },
   {
     "id": "tas-scaff-logo",
@@ -102,11 +111,13 @@
     "type": "Logo design",
     "description": "A wordmark for Tas Scaff Hire, using narrow geometric lettering with a separate HIRE descriptor underneath. The rectangular composition keeps the company name as the central feature.",
     "asset": "project-tas-scaff-logo.gif",
-    "preview_title": "Tas Scaff Hire",
     "url": "https://www.behance.net/gallery/135254371/Tas-Scaff-Hire-Logo-Design",
     "scope": "Logo design",
     "details": "The original animated presentation shows the logo treatment and its contrasting teal-and-light color palette.",
-    "alt": "Tas Scaff Hire Logo Design — Logo design presentation"
+    "alt": "Tas Scaff Hire Logo Design — Logo design presentation",
+    "cover_asset": "project-tas-scaff-logo.gif",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "simons-glass-logo",
@@ -119,11 +130,13 @@
     "type": "Logo design",
     "description": "A logo for Simon’s Glass that pairs a layered glass-panel symbol with a straightforward wordmark. The turquoise panels give the mark a visual connection to the business’s subject.",
     "asset": "project-simons-glass-logo.gif",
-    "preview_title": "Simon's Glass",
     "url": "https://www.behance.net/gallery/135254333/Simons-Glass-Logo-Design",
     "scope": "Logo design",
     "details": "The original animated presentation shows the symbol and name together, with spacing and contrast carrying the composition.",
-    "alt": "Simon's Glass Logo Design — Logo design presentation"
+    "alt": "Simon's Glass Logo Design — Logo design presentation",
+    "cover_asset": "project-simons-glass-logo.gif",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "farmers-bumpers",
@@ -137,11 +150,13 @@
     "type": "Logo & illustration",
     "description": "A logo and illustration for Farmers Bumpers Plus. A stylized vehicle silhouette sits within a directional green frame, with the name stacked above it.",
     "asset": "project-farmers-bumpers.gif",
-    "preview_title": "Farmers Bumpers Plus",
     "url": "https://www.behance.net/gallery/135254281/Farmers-Bumpers-Plus",
     "scope": "Logo & illustration",
     "details": "The presentation shows how the illustration, angled lines, and compact lettering work together as one mark.",
-    "alt": "Farmers Bumpers Plus — Logo & illustration presentation"
+    "alt": "Farmers Bumpers Plus — Logo & illustration presentation",
+    "cover_asset": "project-farmers-bumpers.gif",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "croft-auto",
@@ -154,11 +169,13 @@
     "type": "Logo design",
     "description": "A logo for Croft Auto built around a slanted wordmark and a circular red accent. The horizontal format and metallic-looking letter treatment give it an automotive character.",
     "asset": "project-croft-auto.gif",
-    "preview_title": "Croft Auto",
     "url": "https://www.behance.net/gallery/135254253/Croft-Auto-Logo-Design",
     "scope": "Logo design",
     "details": "The animated presentation focuses on the logo itself, showing the relationship between the lettering, ring, and contrasting background.",
-    "alt": "Croft Auto Logo Design — Logo design presentation"
+    "alt": "Croft Auto Logo Design — Logo design presentation",
+    "cover_asset": "project-croft-auto.gif",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "bob-gears",
@@ -172,11 +189,13 @@
     "type": "Logo & illustration",
     "description": "An automotive logo for Bob Gear’s, combining a vehicle illustration with a yellow circular backdrop and a wide wordmark. The supporting line identifies wheel alignment and mechanical repairs.",
     "asset": "project-bob-gears.gif",
-    "preview_title": "Bob Gear’s",
     "url": "https://www.behance.net/gallery/135254191/Bob-Gears-Logo-Design",
     "scope": "Logo & illustration",
     "details": "The original presentation shows the full illustrated lockup and the contrast between its yellow, light, and dark elements.",
-    "alt": "Bob Gear's Logo Design — Logo & illustration presentation"
+    "alt": "Bob Gear's Logo Design — Logo & illustration presentation",
+    "cover_asset": "project-bob-gears.gif",
+    "cover_position": 50,
+    "cover_scale": 1
   },
   {
     "id": "ayg-projects",
@@ -189,11 +208,13 @@
     "type": "Website design",
     "description": "A website layout for AYG Projects that leads with interior photography and a clear introduction to its spaces. Image-led project sections are followed by company information and reasons to choose the business.",
     "asset": "project-ayg-projects.webp",
-    "preview_title": "AYG Projects",
     "url": "https://www.behance.net/gallery/96198433/Web-Design-AYG-Projects",
     "scope": "Website design presentation",
     "details": "The page concludes with an enquiry area, bringing project imagery and contact information into a single scrolling layout.",
-    "alt": "Web Design: AYG Projects — Website design presentation"
+    "alt": "Web Design: AYG Projects — Website design presentation",
+    "cover_asset": "project-ayg-projects.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "cars-to-cab",
@@ -206,11 +227,13 @@
     "type": "Landing-page design",
     "description": "A vehicle-focused landing-page design for Cars to Cab. A large automotive image introduces the page, followed by sections for the business, its services, and customer feedback.",
     "asset": "project-cars-to-cab.webp",
-    "preview_title": "Cars to Cab",
     "url": "https://www.behance.net/gallery/96199775/Web-Design-Cars-to-Cab",
     "scope": "Website design presentation",
     "details": "The lower sections bring together business contact details and an enquiry form, following the service information above.",
-    "alt": "Web Design: Cars to Cab — Landing-page design presentation"
+    "alt": "Web Design: Cars to Cab — Landing-page design presentation",
+    "cover_asset": "project-cars-to-cab.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "jni-painting",
@@ -223,11 +246,13 @@
     "type": "Landing-page mockup",
     "description": "A landing-page mockup for JNI Painting & Coating Solutions. Bright yellow and orange accents connect the hero, service details, and contact area, supported by photographs of painting work.",
     "asset": "project-jni-painting.webp",
-    "preview_title": "JNI Painting & Coating",
     "url": "https://www.behance.net/gallery/96200197/Web-Design-JNI-Painting-Coating-Solutions",
     "scope": "Website design presentation",
     "details": "The layout moves from an introduction to the business through its services, then finishes with an enquiry section.",
-    "alt": "Web Design: JNI Painting & Coating Solutions — Landing-page mockup presentation"
+    "alt": "Web Design: JNI Painting & Coating Solutions — Landing-page mockup presentation",
+    "cover_asset": "project-jni-painting.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "impulse-electrical",
@@ -240,11 +265,13 @@
     "type": "Website design",
     "description": "A website design for Impulse Electrical Contractors, pairing electrical-work photography with orange accents. The page groups the introduction, services, reasons to choose the business, and testimonials into distinct sections.",
     "asset": "project-impulse-electrical.webp",
-    "preview_title": "Impulse Electrical",
     "url": "https://www.behance.net/gallery/96200757/Web-Design-Impulse-Electrical-Contractors",
     "scope": "Website design presentation",
     "details": "Orange section headings and calls to action provide continuity from the hero through to the contact form.",
-    "alt": "Web Design: Impulse Electrical Contractors — Website design presentation"
+    "alt": "Web Design: Impulse Electrical Contractors — Website design presentation",
+    "cover_asset": "project-impulse-electrical.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "tas-scaff-web",
@@ -257,11 +284,13 @@
     "type": "Website design",
     "description": "A website layout for Tas Scaff Hire, led by scaffolding photography and a concise business introduction. Project images sit alongside company information, with teal accents linking the sections.",
     "asset": "project-tas-scaff-web.webp",
-    "preview_title": "Tas Scaff Hire",
     "url": "https://www.behance.net/gallery/96200935/Web-Design-Tas-Scaff-Hire",
     "scope": "Website design presentation",
     "details": "The page finishes with contact details and an enquiry form. The full design presentation shows the layout from header to footer.",
-    "alt": "Web Design: Tas Scaff Hire — Website design presentation"
+    "alt": "Web Design: Tas Scaff Hire — Website design presentation",
+    "cover_asset": "project-tas-scaff-web.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "hi-way-truck",
@@ -274,11 +303,13 @@
     "type": "Landing-page mockup",
     "description": "A landing-page mockup for Hi-Way 1 Gympie Truck Centre. A workshop image, dark sections, and yellow highlights establish the page’s visual direction.",
     "asset": "project-hi-way-truck.webp",
-    "preview_title": "Hi-Way 1 Truck Centre",
     "url": "https://www.behance.net/gallery/96202799/Web-Design-Hi-Way-1-Gympie-Truck-Centre",
     "scope": "Website design presentation",
     "details": "Company information, services, customer-feedback content, and a contact form are arranged in a single scrolling layout.",
-    "alt": "Web Design: Hi-Way 1 Gympie Truck Centre — Landing-page mockup presentation"
+    "alt": "Web Design: Hi-Way 1 Gympie Truck Centre — Landing-page mockup presentation",
+    "cover_asset": "project-hi-way-truck.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "simons-glass-web",
@@ -291,11 +322,13 @@
     "type": "Website design",
     "description": "A website design for Simon’s Glass using turquoise accents and glass-installation photography. The layout introduces the service, explains what is offered, and includes a customer-feedback section.",
     "asset": "project-simons-glass-web.webp",
-    "preview_title": "Simon's Glass",
     "url": "https://www.behance.net/gallery/96201039/Web-Design-Simons-Glass",
     "scope": "Website design presentation",
     "details": "A quote form and contact information provide a clear next step in the design. The portfolio image shows the complete page layout.",
-    "alt": "Web Design: Simon's Glass — Website design presentation"
+    "alt": "Web Design: Simon's Glass — Website design presentation",
+    "cover_asset": "project-simons-glass-web.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   },
   {
     "id": "civil-movement",
@@ -308,10 +341,12 @@
     "type": "Website design",
     "description": "A website layout for Civil Movement, with earthmoving imagery and green accents. Image-led service blocks introduce the work before the page moves into company information and supporting details.",
     "asset": "project-civil-movement.webp",
-    "preview_title": "Civil Movement",
     "url": "https://www.behance.net/gallery/96200827/Web-Design-Civil-Movement",
     "scope": "Website design presentation",
     "details": "The lower sections combine an enquiry form with project photographs, keeping the machinery and work visible throughout the design.",
-    "alt": "Web Design: Civil Movement — Website design presentation"
+    "alt": "Web Design: Civil Movement — Website design presentation",
+    "cover_asset": "project-civil-movement.webp",
+    "cover_position": 0,
+    "cover_scale": 1
   }
 ]

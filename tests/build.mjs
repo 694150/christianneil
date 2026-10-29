@@ -35,7 +35,7 @@ function verify() {
   assert(!/src="[^"]+\.gif"/.test(gallery), 'Animated originals belong inside modals only');
   assert.equal((gallery.match(/srcset=/g)||[]).length,projects.length);
   const originalBytes = projects.reduce((sum, project) => sum + manifest[project.asset].originalBytes, 0);
-  const previewBytes = projects.reduce((sum, project) => sum + manifest[project.asset].variants.at(-1).bytes, 0);
+  const previewBytes = projects.reduce((sum, project) => sum + manifest[project.cover_asset].variants.at(-1).bytes, 0);
   assert(previewBytes < originalBytes * .3, 'Gallery previews must stay substantially lighter than original artwork');
   assert.equal((html.match(/<script type="application\/ld\+json">/g)||[]).length,1);
   JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);

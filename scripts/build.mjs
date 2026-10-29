@@ -29,7 +29,7 @@ for (const project of projects) {
   if (!/^[a-z0-9-]+$/.test(project.id) || usedIds.has(project.id)) throw new Error(`Invalid or duplicate project id: ${project.id}`);
   usedIds.add(project.id);
   if (!project.url.startsWith('https://www.behance.net/gallery/')) throw new Error(`Missing project-specific source: ${project.id}`);
-  if (!manifest[project.asset] || project.services.some(service => !labels[service])) throw new Error(`Incomplete project metadata: ${project.id}`);
+  if (!manifest[project.asset] || !manifest[project.cover_asset] || !Number.isFinite(project.cover_position) || project.cover_position < 0 || project.cover_position > 100 || !Number.isFinite(project.cover_scale) || project.cover_scale < 1 || project.cover_scale > 2 || project.services.some(service => !labels[service])) throw new Error(`Incomplete project metadata: ${project.id}`);
 }
 
 const assetFiles = fs.readdirSync(path.join(root, 'public/main-assets'));
@@ -51,13 +51,12 @@ function replaceAssetUrls(text) {
 
 function cards() {
   return projects.map(project => {
-    const variants = manifest[project.asset].variants;
+    const variants = manifest[project.cover_asset].variants;
     const largest = variants.at(-1);
     const srcset = variants.map(v => `${asset(v.file)} ${v.width}w`).join(', ');
     return `<article class="project-card project-published" data-services="${project.services.join(' ')}">
       <a class="project-pin" href="${escape(project.url)}" target="_blank" rel="noopener noreferrer" data-project-modal="project-${project.id}" aria-haspopup="dialog" aria-controls="project-modal" aria-label="Open ${escape(project.title)}">
-        <img src="${asset(largest.file)}" srcset="${srcset}" sizes="(max-width: 760px) calc(100vw - 60px), (max-width: 1150px) 55vw, 30vw" width="${largest.width}" height="${largest.height}" alt="${escape(project.alt)}" loading="lazy" decoding="async">
-        <span class="project-pin-title" aria-hidden="true">${escape(project.preview_title)}</span>
+        <img style="--cover-position:${project.cover_position}%;--cover-scale:${project.cover_scale}" src="${asset(largest.file)}" srcset="${srcset}" sizes="(max-width: 760px) calc(100vw - 60px), (max-width: 1150px) 55vw, 30vw" width="${largest.width}" height="${largest.height}" alt="${escape(project.alt)}" loading="lazy" decoding="async">
       </a>
     </article>`;
   }).join('\n');
