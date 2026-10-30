@@ -2323,6 +2323,17 @@ html:not(.workspace-ready) .page + .page{margin-top:48px;
   max-width:48ch;
   margin:0}
 
+.home-toolkit-group+.home-toolkit-group{margin-top:32px}
+
+.home-toolkit-group-title{margin:0 0 16px;
+  padding-top:18px;
+  border-top:2px solid #171717;
+  font-size:18px;
+  line-height:1.4;
+  font-weight:700}
+
+.home-toolkit-group .home-more-skills{margin-top:16px}
+
 .home-skill-grid{list-style:none;
   display:grid;
   grid-template-columns:repeat(3,minmax(0,1fr));
@@ -2351,6 +2362,12 @@ html:not(.workspace-ready) .page + .page{margin-top:48px;
   width:44px;
   height:44px;
   object-fit:contain}
+
+.tool-highlevel{background:#315ce8;
+  color:#fff;
+  border:2px solid #171717;
+  font:800 13px/1 'DM Sans',Arial,sans-serif;
+  letter-spacing:-.4px}
 
 .tool-illustrator{background:#ff9a00;
   border-radius:9px}
@@ -2384,7 +2401,7 @@ html:not(.workspace-ready) .page + .page{margin-top:48px;
 
 .home-skill>div{min-width:0}
 
-.home-skill h4{margin:0 0 5px;
+.home-skill :is(h4,h5){margin:0 0 5px;
   font-size:15px;
   line-height:1.4;
   font-weight:700}
